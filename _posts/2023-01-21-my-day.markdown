@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "My Day"
+date:   2022-11-21 
+categories: jekyll update
+---
+Hello People, Today I am working on building this website and launching it via github free hosting services.
+I wanted a blog website for over six months, I learnt traditional web development, learnt React, node, mogoose for this and then.<br>
+
+Here I am building a website using jekyll.
