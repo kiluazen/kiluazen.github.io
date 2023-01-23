@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-01-23T11:34:48+05:30</updated><id>http://localhost:4000/feed.xml</id><title type="html">KiluaZen</title><subtitle>This a personal blog, an attempt to document my thoughts, ideas and my life as a College Student.</subtitle><entry><title type="html">Welcome to Jekyll!</title><link href="http://localhost:4000/jekyll/update/2023/01/21/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2023-01-21T11:33:31+05:30</published><updated>2023-01-21T11:33:31+05:30</updated><id>http://localhost:4000/jekyll/update/2023/01/21/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2023/01/21/welcome-to-jekyll.html"><![CDATA[<p>You’ll find this post in your <code class="language-plaintext highlighter-rouge">_posts</code> directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run <code class="language-plaintext highlighter-rouge">jekyll serve</code>, which launches a web server and auto-regenerates your site when a file is updated.</p>
+
+<p>Jekyll requires blog post files to be named according to the following format:</p>
+
+<p><code class="language-plaintext highlighter-rouge">YEAR-MONTH-DAY-title.MARKUP</code></p>
+
+<p>Where <code class="language-plaintext highlighter-rouge">YEAR</code> is a four-digit number, <code class="language-plaintext highlighter-rouge">MONTH</code> and <code class="language-plaintext highlighter-rouge">DAY</code> are both two-digit numbers, and <code class="language-plaintext highlighter-rouge">MARKUP</code> is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.</p>
+
+<p>Jekyll also offers powerful support for code snippets:</p>
+
+<figure class="highlight"><pre><code class="language-ruby" data-lang="ruby"><span class="k">def</span> <span class="nf">print_hi</span><span class="p">(</span><span class="nb">name</span><span class="p">)</span>
+  <span class="nb">puts</span> <span class="s2">"Hi, </span><span class="si">#{</span><span class="nb">name</span><span class="si">}</span><span class="s2">"</span>
+<span class="k">end</span>
+<span class="n">print_hi</span><span class="p">(</span><span class="s1">'Tom'</span><span class="p">)</span>
+<span class="c1">#=&gt; prints 'Hi, Tom' to STDOUT.</span></code></pre></figure>
+
+<p>Check out the <a href="https://jekyllrb.com/docs/home">Jekyll docs</a> for more info on how to get the most out of Jekyll. File all bugs/feature requests at <a href="https://github.com/jekyll/jekyll">Jekyll’s GitHub repo</a>. If you have questions, you can ask them on <a href="https://talk.jekyllrb.com/">Jekyll Talk</a>.</p>]]></content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html"><![CDATA[You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.]]></summary></entry><entry><title type="html">Self Portrait</title><link href="http://localhost:4000/jekyll/update/2023/01/17/Self-Portrait.html" rel="alternate" type="text/html" title="Self Portrait" /><published>2023-01-17T00:00:00+05:30</published><updated>2023-01-17T00:00:00+05:30</updated><id>http://localhost:4000/jekyll/update/2023/01/17/Self-Portrait</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2023/01/17/Self-Portrait.html"><![CDATA[<h3 id="the-day-i-am-20">The day I am 20.</h3>
+
+<p>Hello, I am Kushal, an Aerospace Engineering Student.
+Between the computer, phone, and guitar, my whole day passes. People say I don’t talk much, but I can talk if we have some time and one-on-one. It’s harder in the first interactions.</p>
+
+<p>I was born in Chikmagaluru(in Karnataka) 20 years ago, and my family moved to Guntur(in AP) when I was 6 years old.</p>
+
+<p>I was good at studying and scoring grades, which continued until my JEE exams, and once I got my laptop and phone for college, everything changed. I started watching many movies, tv shows and reading books.</p>
+
+<p>All these different perspectives I had never thought about just popped up, and I started recognizing and correcting the stupid ways I used to think.</p>
+
+<p>Amongst the books I have read, The Fountainhead and Atlas Shrugged are just so inspiring and mind-blowing that someone could write that. The topics she talked about in those books, like reasoning and selfishness, were some things I was wired to be against, and just learning her viewpoints had so much influence on me.</p>
+
+<p>I watched many movies in the first two years of college, maybe too many.
+I like it when movies mess you up a bit when they make you contemplate your current state. Movies like good will hunting, dead poets society, and tv shows like sex education and Normal people are some, that gave me epiphanies that I wish had occurred to me earlier in my life.</p>
+
+<p>I listen to music a lot and thought it would be cooler if I could play some. So I started learning guitar. As I used to watch many movies, everything I did seemed harder because movies make it look so easy. I thought I would be a Rockstar in a month when I started playing guitar. As it got harder, I gave up, but now I have started learning guitar again as I realized it’s not so much the destination as the journey, and the harder it is, the more rewarding, so if you like it, keep doing it.</p>
+
+<p>I took Aerospace Engineering because I wanted to build rockets,
+It’s funny because when you start studying rockets, you would think that you would feel your ability to build them will increase, but it’s actually been the opposite. It seems so complicated and not possible now that I know the nitty-gritty of things. It may seem daunting, but I still want to pursue my goal.</p>
+
+<p>The best things I do in my day are brushing my teeth at night while standing in front of a mirror, thinking about what I have done that day and what I want to do tomorrow. The other best thing is walking to classes while listening to podcasts.</p>
+
+<p>I have been listening to Lex Fridman and Joe Rogan podcasts a lot. They are great.
+In Podcasts, you get to be in a conversation with people you admire, Podcasts are long, and they leave you with content.</p>
+
+<p>I got into an argument with my mother once. She was telling me to prepare for the placements. I got exasperated, partly because I couldn’t explain to her the way I was thinking about it, that placements are too short-term of a goal and blah blah blah, then I felt guilty that I got angry at her, from her perspective it totally made sense, by the way, my mother and I have a minimal relationship, we rarely open up, and when she did I got angry, and I felt so guilty about that, that’s when I decided,</p>
+
+<p>I want to be stoic in my arguments and serene in my actions.</p>]]></content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html"><![CDATA[The day I am 20.]]></summary></entry><entry><title type="html">Nov 28</title><link href="http://localhost:4000/2022/11/28/Nov-28.html" rel="alternate" type="text/html" title="Nov 28" /><published>2022-11-28T00:00:00+05:30</published><updated>2022-11-28T00:00:00+05:30</updated><id>http://localhost:4000/2022/11/28/Nov-28</id><content type="html" xml:base="http://localhost:4000/2022/11/28/Nov-28.html"><![CDATA[<p>I booked a cab to Dadar Railway Station. So he left me after ceossing through a huge bridge just beside platform 7.</p>
+
+<p>Where is my train indicated that the train would be at pf 7. So I thought I am here and stayed there quiet a while.</p>
+
+<p>I had a dejavu that I don’t recall this to be like this from my previous encounters.</p>
+
+<p>Later I went to the swarch of people.</p>
+
+<p>And with help of google found that. There is two parts of Dadar. Dadar Central and Dadar Western. And I was in dadar western pf7 , whilst I had to be at Dadar Central.</p>
+
+<p>Finally I went there and there my train was .</p>
+
+<p>Also about today.</p>
+
+<p>Fucking ear pain is back again.🙌also I went to get a hair cut but there was no one there .And Me and Hrishikesh are working out together.</p>
+
+<p>We do Abs together. Its soo goood.</p>
+
+<p>I feel my stomach muscles dude.</p>
+
+<p>We done it twice, I hope we continue after coming back tooo.</p>
+
+<p>Anyway I will do the 10 min ab workout even when I am home.</p>
+
+<p>I hope I will be as productive as I ever been and more.</p>
+
+<p>I completed Midnight Libraries, made me cry a little. When she comes back to her life and his brother comes to see her. It was great dialogue there, I ennacted it and cried such a great experience.</p>
+
+<p>Also I wil hug my mother when I am home, I never done that before, no idea why. If you don’t express no one will ever know.</p>]]></content><author><name></name></author><summary type="html"><![CDATA[I booked a cab to Dadar Railway Station. So he left me after ceossing through a huge bridge just beside platform 7.]]></summary></entry><entry><title type="html">My Day</title><link href="http://localhost:4000/jekyll/update/2022/11/21/my-day.html" rel="alternate" type="text/html" title="My Day" /><published>2022-11-21T00:00:00+05:30</published><updated>2022-11-21T00:00:00+05:30</updated><id>http://localhost:4000/jekyll/update/2022/11/21/my-day</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2022/11/21/my-day.html"><![CDATA[<p>Hello People, Today I am working on building this website and launching it via github free hosting services.
+I wanted a blog website for over six months, I learnt traditional web development, learnt React, node, mogoose for this and then.<br /></p>
+
+<p>Here I am building a website using jekyll.</p>]]></content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html"><![CDATA[Hello People, Today I am working on building this website and launching it via github free hosting services. I wanted a blog website for over six months, I learnt traditional web development, learnt React, node, mogoose for this and then.]]></summary></entry><entry><title type="html">Nov 20</title><link href="http://localhost:4000/2022/11/20/Nov-20.html" rel="alternate" type="text/html" title="Nov 20" /><published>2022-11-20T00:00:00+05:30</published><updated>2022-11-20T00:00:00+05:30</updated><id>http://localhost:4000/2022/11/20/Nov-20</id><content type="html" xml:base="http://localhost:4000/2022/11/20/Nov-20.html"><![CDATA[<p>Well well well…… I had my Aerodynamics Exam today AE333 which was really great, the exam that I was most prepared of, so what can I say, I actually didn’t have time to answer all the questions, I always used to have time to contemplate on questions because there weren’t much that I could answer, but here I felt like I could answer all the questions.</p>
+
+<p>Then Later I came back and started reading the Midnight Libraries, and slept reading it for a while.</p>
+
+<p>I don’t know after the reviewer gave a slightly less review for this book, the enthusiasm flew away a little bit, I shouldn’t really totally depend on his review, I got to have my own opinions.</p>
+
+<p>Well it’s a great book I am gonna read it and see for myself how it is..</p>
+
+<p>This weird feeling that I am gonna post a status of this book as soon as I finish it, I hate that whenever it creeps in, just read it if you like it and you can think about posting it later.</p>
+
+<p>Also I went to the gym early today and I was talking to Taha while I was there on my phone and roaming around and I saw a girl (blue died hair), sitting there alone and playing with carrom coins, so I went up there and said “ Are you waiting for someone or can I join “, she immediately said yes and directed me the chair, and I introduced myself her name was Verniti ( I think I am not sure already in just 4 hours).</p>
+
+<p>Well we played a best of three and she won, but talked a lot, about her PHD in game theory and also about Taylor Swift and about various other things.</p>
+
+<p>I guess we strongly connected on the Taylor swift things and I didn’t stutter anywhere in my talk( mostly English a little bit of Hindi too) she was from UP(near Lucknow).</p>
+
+<p>Over all I think she was also a easy person to talk tooo and the conversation had a background of carroms so, It made the pauses seem ok.</p>
+
+<p>Well this is great I should do this often.</p>
+
+<p>My first female stranger talk in IITB ain’t that something.</p>]]></content><author><name></name></author><summary type="html"><![CDATA[Well well well…… I had my Aerodynamics Exam today AE333 which was really great, the exam that I was most prepared of, so what can I say, I actually didn’t have time to answer all the questions, I always used to have time to contemplate on questions because there weren’t much that I could answer, but here I felt like I could answer all the questions.]]></summary></entry><entry><title type="html">Nov 06</title><link href="http://localhost:4000/2022/11/06/Nov-06.html" rel="alternate" type="text/html" title="Nov 06" /><published>2022-11-06T00:00:00+05:30</published><updated>2022-11-06T00:00:00+05:30</updated><id>http://localhost:4000/2022/11/06/Nov-06</id><content type="html" xml:base="http://localhost:4000/2022/11/06/Nov-06.html"><![CDATA[<p>Well I am writing this on 7 Nov, So what did I do yesterday aaaah I can’t remember , well I have quizzes to prepare on 7,8 nov bet I didn’t do that.</p>
+
+<p>I tried to read Rocket Propulsion and AE651 stuff but I guess miserably failed at it, Well I ended up watching few movies and practiced guitar</p>
+
+<p>I am playing chords with the help of guitar tuna app, I can take practice tests where it keeps displaying chords for some time and gives rank at the end its fun kind of like how I am obsessed on taking typing tests again and again.</p>
+
+<p>About Movies, I watched a movie called ‘We are your friends’ it’s about a DJ so I decided to learn DJing it would be a pretty good party skill to have.</p>
+
+<p>Web3 development professional, guitar personal, DJ party look it’s clear now and don’t forget Aerospace Hobby.</p>
+
+<blockquote>
+  <p>Web3 development professional, guitar personal, DJ party ,look it’s clear now and don’t forget Aerospace Hobby.</p>
+
+</blockquote>
+
+<p>and also a movie called ‘Unpregnant’ its a comedy it was good too just showing how people can be.</p>
+
+<p>I may have spent a lot of time browsing for movies, I know I know man what kind of a person I am becoming right …. well what can I say dude it is what it is…</p>
+
+<blockquote>
+  <p>It is never what it is . It is what it should be and what it could be. - - - Ayn Rand</p>
+
+</blockquote>
+
+<p>So what could I be and what do I want to be. I want to be get pleasure by reading and learning things like the other day when I was learning about nozzles and I saw a video Elon explaining his engines and I got to understand some of it, that felt really rewarding.</p>
+
+<p>I guess my movie learning has reached its threshold and at this point I am just wasting time, being in a numb state with nothing to think just sitting there and letting the time go by.</p>
+
+<p>Ok enough with that;</p>
+
+<p>I made a layout for my blog website yesterday its in my diary.</p>
+
+<p>Gotta learn React quickly and start working on it.</p>
+
+<p>I hope I have a fully functional blog by the end of this year. I talked to a guy he said It should be that difficult if you know the stuff.</p>
+
+<p>I also want to mention this I feel like I am missing all the things I can learn from my Aerospace branch by skipping classes and not preparing for exams, I kind of feel bad about that.</p>
+
+<p>Also yesterday my father called and we talked about the money I have and he said he would send me 10k, man I feel bad and relieved , relieved because I was feeling ashamed to ask for money and bad because I don’t have a source of income of my own.</p>]]></content><author><name></name></author><summary type="html"><![CDATA[Well I am writing this on 7 Nov, So what did I do yesterday aaaah I can’t remember , well I have quizzes to prepare on 7,8 nov bet I didn’t do that.]]></summary></entry><entry><title type="html">Nov 01</title><link href="http://localhost:4000/2022/11/01/Nov-02.html" rel="alternate" type="text/html" title="Nov 01" /><published>2022-11-01T00:00:00+05:30</published><updated>2022-11-01T00:00:00+05:30</updated><id>http://localhost:4000/2022/11/01/Nov-02</id><content type="html" xml:base="http://localhost:4000/2022/11/01/Nov-02.html"><![CDATA[<p>Hey bro, yesterday …life was such an easy game to play , now it looks as if though I am here to stay and I believe in yesterday….suddenly.</p>
+
+<p>Yesterday, yeah what happened yesterday, Ooh right on 1 Nov night I was trying to finish the report for AE651 course I was in H3 in taha’s room. He was making a CAD model for his report, the thing that drives him to do that is so great because CAD model was not compulsory and also he figured out how excel features and Ansys features by browsing YouTube and google, I know one could do that but whenever I tried it never worked or I guess I didn’t stay persistent. So it was 2:30 AM when I left to H5</p>
+
+<p>I woke up at 9:15 I guess and as was coming out of men’s room I met Hrishikesh, We talked standing there till 10:15 about 45 min I think, He showed me the costume he designed for his girlfriend for the Halloween fashion show, also about his issue with his designated room mate and how he has no room in H5 now and he is living in H9 on the floor in someone’s room. I know Pranav has talked to me once about his issue with him bringing his girlfriend over when we were in initial days of H16 I think, The solutions he was coming up with to solve the issue were bad like calling his parents and stuff you have to search for a quid-pid-pro situation for conflicts, and also he has to respect the relationship they have (I think he didn’t have that so.. that were the fundamental issue was)</p>
+
+<p>anyway enough thinking about other people, I got lots stuff to figure out myself so, you know what I noticed it was very easy for me to start thinking about Pranav and how his behavior might be and other stuff, I know what they say but it is true it’s sooo easy to just asses and judge other people anyway Hrishikesh is great I like talking to him his conversations are a bit open ….but anyway maybe everyone can talk that way and I haven’t talked much of them, Yeah I haven’t had such a great conversation for a long time, and we talked a lot about movies about that’s it I guess.</p>
+
+<ul>
+  <li>
+    <p>College</p>
+
+    <p>I went to the AE333 class a 20 min late around 11:30 and also I didn’t stay inside long I just went out and listened to the Balaji Srinivasan , Lex Friedman podcast and then I left at 12:30, while I was roaming around I saw a LT class room where people sat in a round table and were discussing stuff , I want to be in a class like that, I will enquire about the class and see if I can apply for it next year.</p>
+
+    <p>Also that evening we had our presentation for the AE326 one DOF projects which was fun , we did it early because Yash had to perform UG cultural orientation, but I stayed for an hour after our presentation there to look at what people were doing, It was fun I talked to Daksesh for a while (his study table is awesome it folds to a simple thin suitcase kind of thing).</p>
+
+    <p>That is all.</p>
+  </li>
+</ul>
+
+<p>At the end I came home, I had to read the text for today’s HS301 quiz but I didn’t do it instead I watched a couple of Romance dramas The best of me, endless love and so on not that great but both of them left me with a high point of finding love……..</p>
+
+<p>I want a girlfriend … aaaahhh don’t wanna be desperate but I mean …..</p>
+
+<p>All the boys in those movies were so in shape I want to get in shape man, I gotta re read The 4HB and make regimen and calculations of my current shape and progress.</p>]]></content><author><name></name></author><summary type="html"><![CDATA[Hey bro, yesterday …life was such an easy game to play , now it looks as if though I am here to stay and I believe in yesterday….suddenly.]]></summary></entry><entry><title type="html">Halloween</title><link href="http://localhost:4000/jekyll/update/2022/10/31/Halloween.html" rel="alternate" type="text/html" title="Halloween" /><published>2022-10-31T00:00:00+05:30</published><updated>2022-10-31T00:00:00+05:30</updated><id>http://localhost:4000/jekyll/update/2022/10/31/Halloween</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2022/10/31/Halloween.html"><![CDATA[<ul>
+  <li>
+    <p>Exam</p>
+
+    <p>Fucking hell man, I didn’t answer a single question in todays exam man. Not kidding literally nothing.(Vibrations Course)</p>
+
+    <p>It was a 90 mins exam, I read the questions they were all really interesting I kind of feel bad that I couldn’t solve such beautiful questions.</p>
+
+    <p>On a side note if you don’t do well in the endsem for this course you have a strong chance of failing because I saw people writing well in the class, but anyway you will learn a lot preparing for the exam (this is a good course)</p>
+
+    <p>So don’t screw up and fail because failing is going back and we don’t wanna do that.</p>
+  </li>
+  <li>
+    <p>Halloween</p>
+
+    <p>They was a fashion GC by style up, Hostels competed dressing scary and stuff typical fashion show (with themes and formations)</p>
+
+    <p>I didn’t stay for long though I was there for half an hour and I left , Sudden epiphany happened</p>
+
+    <p>The dialogue that College is for fun, ‘people don’t realize that college is a vacation where you can study and party every weekend(I mean all these events)’ -Balaji Srinivas [ we can’t realize that because we haven’t worked before that ] , We have this information acquired till 21 and not used anywhere and as soon as you go to the job market none of these matter and by the time you are thirty you don’t know what Fourier series or Bessel functions are……..</p>
+
+    <p>So the advice I want to give myself is you should find a way to be economically stable even you are a student [find a way to earn money then your study here becomes magical], now all I think about is getting a job intern and stuff and I even forgot what Fourier series was today which such a shame as an engineer.</p>
+
+    <p>Also whenever I attend these events I always feel like I could have participated in the event and after the event I get pumped up to participate in one of these next time and it never happened, Clearly it feels fishy its like you don’t even have a girlfriend and you talk about the girls you can’t fuck if you are in a relationship, Just be happy that you are invited to the party (in this case events) and have a good time as soon as the day is over these will be just memories.</p>
+
+    <p>Anyway man find a way to make money or you will waste the one and half year left on this campus.</p>
+
+    <p>You really like studying Rocket engines and stuff man (you are a nerd) don’t forget that because I seen you study and you feel fucking nirvana when you study these things.</p>
+
+    <p>But I know that the knowledge in these things is very low for me ( and I actually over estimate my intellect in these things) anyway fake it till you make it - am I right boys?</p>
+  </li>
+</ul>]]></content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html"><![CDATA[Exam Fucking hell man, I didn’t answer a single question in todays exam man. Not kidding literally nothing.(Vibrations Course) It was a 90 mins exam, I read the questions they were all really interesting I kind of feel bad that I couldn’t solve such beautiful questions. On a side note if you don’t do well in the endsem for this course you have a strong chance of failing because I saw people writing well in the class, but anyway you will learn a lot preparing for the exam (this is a good course) So don’t screw up and fail because failing is going back and we don’t wanna do that. Halloween They was a fashion GC by style up, Hostels competed dressing scary and stuff typical fashion show (with themes and formations) I didn’t stay for long though I was there for half an hour and I left , Sudden epiphany happened The dialogue that College is for fun, ‘people don’t realize that college is a vacation where you can study and party every weekend(I mean all these events)’ -Balaji Srinivas [ we can’t realize that because we haven’t worked before that ] , We have this information acquired till 21 and not used anywhere and as soon as you go to the job market none of these matter and by the time you are thirty you don’t know what Fourier series or Bessel functions are…….. So the advice I want to give myself is you should find a way to be economically stable even you are a student [find a way to earn money then your study here becomes magical], now all I think about is getting a job intern and stuff and I even forgot what Fourier series was today which such a shame as an engineer. Also whenever I attend these events I always feel like I could have participated in the event and after the event I get pumped up to participate in one of these next time and it never happened, Clearly it feels fishy its like you don’t even have a girlfriend and you talk about the girls you can’t fuck if you are in a relationship, Just be happy that you are invited to the party (in this case events) and have a good time as soon as the day is over these will be just memories. Anyway man find a way to make money or you will waste the one and half year left on this campus. You really like studying Rocket engines and stuff man (you are a nerd) don’t forget that because I seen you study and you feel fucking nirvana when you study these things. But I know that the knowledge in these things is very low for me ( and I actually over estimate my intellect in these things) anyway fake it till you make it - am I right boys?]]></summary></entry></feed>
