@@ -23,7 +23,7 @@ email: kushalsokke@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   This a personal blog, an attempt to document my thoughts, ideas and my life as a
   College Student.
-baseurl: "blog" # the subpath of your site, e.g. /blog
+baseurl: "testing" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: KushalSM5
 github_username:  KiluaZen
